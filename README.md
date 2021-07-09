@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/GlXNtT8U4FHUBjXIXlhT">
       Solution
     </a>
     <span> | </span>
@@ -38,20 +38,17 @@
 
 ![screenshot](https://github.com/ardian70/ardiancharlos.github.io-404-project.html/blob/a296b56e8f6b4980205840c92960caac9d7cf51a/404%20not%20found.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+this challenge is a 404 not found webpage , which is a standard HTTP response code in computer network communications that indicates that the client can communicate with the server, but the server cannot find what the client requested.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- <a href="https://ardian70.github.io/ardiancharlos.github.io-404-project.html/">
+      click me!! , if you want to see the demo
+    </a>
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Atom](https://atom.io/)
 
 ## Features
 
@@ -70,6 +67,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@ardian70](https://{https://github.com/ardian70})

@@ -1,0 +1,81 @@
+body{
+  box-sizing: border-box;
+  font-family: 'Space Mono', normal;
+  color: #4F4F4F;
+}
+img{
+  width:100%;
+}
+.isi{
+  margin:20vh 10%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+.gambar{
+  width: 50%;
+}
+.caption{
+  width: 50%;
+}
+.caption *{
+  margin-bottom: 36px;
+}
+.badnews{
+  font-weight: bold;
+  font-size: 64px;
+  letter-spacing: -0.035em;
+}
+.unavalibe{
+font-size: 24px;
+line-height: 36px;
+
+
+/* Gray 2 */
+
+color: #4F4F4F;
+}
+button{
+  background: #333333;
+  width: 216px;
+  height: 68px;
+  border-radius: 12px;
+  border:none;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+  .footer{
+    text-align: center;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+
+
+  color: #BDBDBD;
+
+  }
+
+@media (max-width:720px) {
+.gambar{
+  width: 100%;
+}
+.isi{
+  display: block;
+}
+.caption{
+  width: 100%;
+}
+.badnews{
+  font-size: 48px;
+}
+.unavalibe{
+  font-size: 18px;
+}
+
+}
